@@ -24,3 +24,10 @@ awk '{print $1}' < .tool-versions | while read -r plugin; do
     #fi
   fi
 done
+
+
+
+
+
+
+
